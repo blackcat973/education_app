@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/background">
+        <file>background.png</file>
+    </qresource>
+    <qresource prefix="/sprites">
+        <file>characterR.png</file>
+        <file>box.png</file>
+    </qresource>
+</RCC>
